@@ -1,0 +1,7 @@
+{
+  "name": "IonicCocktailDB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
