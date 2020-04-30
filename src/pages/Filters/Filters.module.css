@@ -1,0 +1,33 @@
+.toolbar {
+    --min-height:62px!important;
+    -webkit-box-shadow: 0px 1px 3px 2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 1px 3px 2px rgba(0,0,0,0.3);
+    box-shadow: 0px 1px 3px 2px rgba(0,0,0,0.3);
+}
+
+.backBtn {
+    height: 38px;
+    font-size: 36px;
+    color: black;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 15px;
+}
+
+.filter {
+    --padding-bottom: 10px;
+    --padding-top: 10px;
+}
+
+.link {
+    color: transparent;
+}
+
+.applyBtn {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
